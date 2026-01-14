@@ -19,7 +19,8 @@ A ferramenta permite que o usuário configure sua realidade financeira (salário
 
 ⏳ Simulação de cenários de curto, médio e longo prazo (2, 5, 10, 20 e 30 anos)
 
-🧠 Definição de perfil de investidor
+🧠 Definição de perfil de investidor 
+
 <img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/527c0700-dd4d-4cd6-8cdd-95ce08ad8226" />
 
 
@@ -41,6 +42,7 @@ Hotelarias
 ✔ Validações automáticas para evitar erros de entrada
 
 🎨 Interface visual intuitiva e organizada
+
 <img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/eff67078-60bb-4cb4-8e02-abfcb49509de" />
 
 
@@ -75,4 +77,5 @@ Análise e projeção de dados
 Automação e organização no Excel
 
 Criação de ferramentas interativas para usuários finais
+
 <img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/9b6df4fb-9173-4725-9c88-3455bc223bd5" /> 
