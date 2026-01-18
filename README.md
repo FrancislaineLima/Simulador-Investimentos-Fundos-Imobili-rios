@@ -1,5 +1,5 @@
 # Simulador-Investimentos-Fundos-Imobili-rios
-Simulador interativo de Fundos Imobiliários 📈 (Excel)
+## Simulador interativo de Fundos Imobiliários 📈 (Excel)
 
 O FranInvest é um simulador interativo de investimentos em Fundos Imobiliários (FIIs) desenvolvido inteiramente no Microsoft Excel, com foco em planejamento financeiro, projeção de patrimônio e tomada de decisão baseada em cenários.
 
@@ -7,7 +7,7 @@ A ferramenta permite que o usuário configure sua realidade financeira (salário
 
 
 
-🚀 Funcionalidades:
+## 🚀 Funcionalidades:
 
 💰 Configuração de salário e sugestão automática de valor para investimento;
 
@@ -21,11 +21,9 @@ A ferramenta permite que o usuário configure sua realidade financeira (salário
 
 🧠 Definição de perfil de investidor .
 
-<img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/527c0700-dd4d-4cd6-8cdd-95ce08ad8226" />
 
 
-
-🏢 Distribuição sugerida por tipo de FII:
+## 🏢 Distribuição sugerida por tipo de FII:
 
 Papel;
 
@@ -43,11 +41,10 @@ Hotelarias;
 
 🎨 Interface visual intuitiva e organizada.
 
-<img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/eff67078-60bb-4cb4-8e02-abfcb49509de" />
 
 
 
-🛠️ Tecnologias Utilizadas:
+## 🛠️ Tecnologias Utilizadas:
 
 Microsoft Excel;
 
@@ -61,10 +58,10 @@ Layout e organização visual focados em usabilidade;
 
 (Opcional) VBA para automações e navegação.
 
-<img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/933532fe-dc6d-4927-82ac-b9ef28689bef" />
 
 
-🎯 Objetivo do Projeto:
+
+## 🎯 Objetivo do Projeto:
 
 O objetivo do FranInvest é ajudar investidores a entender o impacto dos aportes mensais e dos rendimentos compostos ao longo do tempo, oferecendo uma visão clara de patrimônio futuro e geração de renda passiva.
 
@@ -78,8 +75,9 @@ Automação e organização no Excel;
 
 Criação de ferramentas interativas para usuários finais.
 
-<img width="568" height="11" alt="image" src="https://github.com/user-attachments/assets/9b6df4fb-9173-4725-9c88-3455bc223bd5" /> 
 
-👩‍💻 Autora:
 
-Francislaine Lima,Estudante de ads na Fatec Gru.
+## 👩‍💻 Autora:
+
+Francislaine Lima,
+Estudante de Análise e Desenvolvimento de Sistemas – Fatec Gru.
